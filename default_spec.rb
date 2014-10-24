@@ -15,6 +15,7 @@ describe 'common' do
   describe_packages[
     "rsync",
     "unzip",
-    "telnet"
+    "telnet",
+    "git"
   ]
 end
